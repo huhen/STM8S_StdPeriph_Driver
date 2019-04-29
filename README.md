@@ -1,0 +1,2 @@
+# STM8S_StdPeriph_Driver
+COPYRIGHT 2014 STMicroelectronics
